@@ -1,0 +1,5 @@
+#.gitignore file is created to prevent some content from being added 
+#to the git repository. 
+
+.pytest_cache
+.vscode
